@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="andelaBluePrimary">#2537EB</color>
+    <color name="andelaBluePrimaryDark">#18228B</color>
+    <color name="greyPrimary">#EBEBEB</color>
+    <color name="endandelaBlue">#3086A8</color>
+</resources>

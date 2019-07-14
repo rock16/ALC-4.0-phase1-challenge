@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ALC 4 Phase1</string>
+    <string name="my_profile">My Profile</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_name">Rock Okechukwu</string>
+    <string name="track">Track: Android:</string>
+    <string name="country">Country: Nigeria</string>
+    <string name="email">Email: rockok10@gmail.com</string>
+    <string name="phone">Phone number: 2348072311313</string>
+    <string name="slack">Slack: @Rock okechukwu</string>
+    <string name="welcom">Welcome to ALC 4.0</string>
+</resources>
